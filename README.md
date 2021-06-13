@@ -1,5 +1,5 @@
 # Note ⬇️
-<!--- Todo: add despcriton -->
+A blogging headless platform has based on git persistence 
 
 It has been inspired by the blog system the [Ghost](https://ghost.org/) but providing greater flexibility to be used by static page generators such as  [Next.js](https://nextjs.org/), [Hugo](https://gohugo.io/), [Gatsby](https://www.gatsbyjs.com/), among others.
 
