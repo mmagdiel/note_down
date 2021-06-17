@@ -11,8 +11,8 @@ It has been inspired by the blog system the [Ghost](https://ghost.org/) but prov
 - Page: Markdown document file 
 - Frontmatter: metadata for page or notes
 - Book: A collection of pages
-- Block: A collection of page or notes
-- Blotter: A collection of notes
+- Block: A collection of notes
+- Blog: A collection of page or notes
 
 ### Feature list for MVP
 - [ ] It create a components library.
@@ -26,11 +26,11 @@ It has been inspired by the blog system the [Ghost](https://ghost.org/) but prov
 - [ ] It save default template pair fields-message: name, description and list of tags. 
 
 - [ ] User can create a book with a title unique that he only can create pages
-- [ ] User can create a block with a title unique that he can create pages or notes
-- [ ] User can create a blotter with a title unique that he only can create notes
+- [ ] User can create a block with a title unique that he only can create notes
+- [ ] User can create a blog with a title unique that he can create pages or notes
 - [ ] User can delete a book if there aren't pages on that collection 
-- [ ] User can delete a block if there aren't pages or notes on that collection 
-- [ ] User can delete a blotter if there aren't pages on that collection 
+- [ ] User can delete a block if there aren't  pages on that collection 
+- [ ] User can delete a blog if there aren't pages or notes on that collection 
 
 - [ ] User can create a template tag. The field name and color are requerired and unique
 - [ ] User can create a template frontmatter. The field name and type are requerired and unique
